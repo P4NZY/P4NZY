@@ -1,4 +1,4 @@
-# hi, i'm panzy 🦆
+# tis i panzerman 🦆
 
 data science & ai student @ leiden · anatidae enjoyer · meow meow meow
 
