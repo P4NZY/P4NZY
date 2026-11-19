@@ -1,7 +1,12 @@
-meow meow meow
+# hi, i'm panzy 🦆
 
-- i like claude
-- reach me on instagram
+data science & ai student @ leiden · anatidae enjoyer · meow meow meow
+
+**currently building:** retro winamp-style players for apple music, spotify & soundcloud
+
+**tools:** python · javascript · html/css
+
+i like claude · find me on [instagram](https://instagram.com/marcus.phonk)
 
 ```text
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⣀⣀⣀⣀⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
